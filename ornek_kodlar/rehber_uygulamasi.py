@@ -1,8 +1,5 @@
 """
-    ~Bismillahirrahmanirrahim~
 
-    Ummeti cihana notlarim
-    ~~~~~~~~~~~~~~~~~~~~~~
 
     1) Programalama da yazim sekli olarak 2 tercih var.
     camelStyle ve snake_style
